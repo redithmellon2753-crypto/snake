@@ -1,4 +1,4 @@
-const CACHE = 'snake-plus-v1';
+const CACHE = 'snake-plus-v2';
 const ASSETS = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
